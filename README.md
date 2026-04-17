@@ -18,8 +18,8 @@ It is particularly useful in development and testing environments, or wherever t
 개발 · 테스트 환경 또는 런처를 집중적으로 사용하는 환경에서 유용합니다.
 
 <br>
-<img width="482" height="604" alt="001" src="https://github.com/miiimeworks/MTM_Dev/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">  
-<img width="482" height="604" alt="002" src="https://github.com/miiimeworks/MTM_Dev/blob/main/Preview/002.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="482" height="604" alt="001" src="https://github.com/miiimeworks/MTM/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">  
+<img width="482" height="604" alt="002" src="https://github.com/miiimeworks/MTM/blob/main/Preview/002.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
 <br>
 
 ---
