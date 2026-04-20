@@ -29,35 +29,35 @@ It is particularly useful in development and testing environments, or wherever t
 
 ### Process Monitor (Processes pane)
 
-- Lists active launcher processes (`*_M.exe`) and MIIIME tool processes in real time  
-- Displays process name, PID, type (Launcher / Tool), and executable path per entry  
-- Force-terminates selected processes  
-- Visibility of MTM itself in the list is configurable via INI  
+- Lists active launcher processes (`*_M.exe`) and MIIIME tool processes in real time.  
+- Displays process name, PID, type (Launcher / Tool), and executable path per entry.  
+- Force-terminates selected processes.  
+- Visibility of MTM itself in the list is configurable via INI.  
 
 **[프로세스 모니터]**
 
-- 실행 중인 런처(`*_M.exe`) 및 MIIIME 계열 도구 프로세스를 실시간 나열
-- 각 항목에 프로세스명, PID, 유형(Launcher / Tool), 실행 경로 표시
-- 선택 항목 강제 종료 (Terminate)
-- 자신(MTM)을 목록에 포함할지 여부를 INI로 제어 가능
+- 실행 중인 런처(`*_M.exe`) 및 MIIIME 계열 도구 프로세스를 실시간 나열.
+- 각 항목에 프로세스명, PID, 유형(Launcher / Tool), 실행 경로 표시.
+- 선택 항목 강제 종료 (Terminate).
+- 자신(MTM)을 목록에 포함할지 여부를 INI로 제어 가능.
 
 ### Trace Monitor (Traces pane)
 
-- Automatically detects three types of traces left by the launcher on the host  
-  - **BAKK** : `*_bakk` backup folders under AppData and user profile paths  
-  - **TEMP** : Temporary session folders matching `%TEMP%\MIIIME_*`  
-  - **ENV**  : `_MIIIMEEnv` environment directory  
-- Distinguishes each trace's ownership status as **Active** or **Orphan**  
-- Cleans selected trace items — includes retry logic for locked resources  
+- Automatically detects three types of traces left by the launcher on the host.  
+  - **BAKK** : `*_bakk` backup folders under AppData and user profile paths.  
+  - **TEMP** : Temporary session folders matching `%TEMP%\MIIIME_*`.  
+  - **ENV**  : `_MIIIMEEnv` environment directory.  
+- Distinguishes each trace's ownership status as **Active** or **Orphan**.  
+- Cleans selected trace items — includes retry logic for locked resources.  
 
 **[트레이스 모니터]**
 
-- 런처가 호스트에 남긴 3가지 유형의 흔적을 자동 탐지
-  - **BAKK** : AppData 및 사용자 프로파일 경로의 `*_bakk` 백업 폴더
-  - **TEMP** : `%TEMP%\MIIIME_*` 임시 세션 폴더
-  - **ENV**  : `_MIIIMEEnv` 환경 디렉토리
-- 각 흔적의 소유 프로세스 상태를 **Active / Orphan** 으로 구분 표시
-- 선택 항목 정리 (Clean) — 재시도 로직 포함
+- 런처가 호스트에 남긴 3가지 유형의 흔적을 자동 탐지.
+  - **BAKK** : AppData 및 사용자 프로파일 경로의 `*_bakk` 백업 폴더.
+  - **TEMP** : `%TEMP%\MIIIME_*` 임시 세션 폴더.
+  - **ENV**  : `_MIIIMEEnv` 환경 디렉토리.
+- 각 흔적의 소유 프로세스 상태를 **Active / Orphan** 으로 구분 표시.
+- 선택 항목 정리 (Clean) — 재시도 로직 포함.
 
 ---
 
