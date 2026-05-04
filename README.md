@@ -10,11 +10,11 @@ MIIIMEToolsManager · 미메툴즈매니저<br>
 <img width="559" height="136" alt="001" src="https://github.com/miiimeworks/M4T/blob/main/4bit_Enhanced/Id/Neon/4b_136_0_G.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
 <br>
 
-MIIIMEToolsManager is a companion utility for the MIIIMEHybridLauncher.  
+It is an auxiliary management tool for MIIIMEHybridLauncher.  
 It monitors active launcher processes and their host-side traces, and lets you terminate or clean them.
 It is particularly useful in development and testing environments, or wherever the launcher is used intensively.
 
-미메툴즈매니저는 미메런처의 보조 관리 도구입니다.  
+미메런처의 보조 관리 도구입니다.  
 활성 런처 프로세스와 호스트 흔적을 모니터링하고, 필요시 종료하거나 정리합니다.  
 개발 · 테스트 환경 또는 런처를 집중적으로 사용하는 환경에서 유용합니다.
 
