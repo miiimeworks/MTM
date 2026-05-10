@@ -20,7 +20,7 @@ It is particularly useful in development and testing environments, or wherever t
 
 <br>
 <img width="482" height="604" alt="001" src="https://github.com/miiimeworks/MTM/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">  
-<img width="482" height="604" alt="002" src="https://github.com/miiimeworks/MTM/blob/main/Preview/002.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="402" height="197" alt="003" src="https://github.com/miiimeworks/MTM/blob/main/Preview/003.png?raw=true" />
 <br>
 
 ---
