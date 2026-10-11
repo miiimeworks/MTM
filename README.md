@@ -1,6 +1,6 @@
 # MIIIME Tools Manager (MTM™)
 
-MIIIMEToolsManager · 미메툴즈매니저<br>
+MIIIMEManager · 미메매니저<br>
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
 [![Language](https://img.shields.io/badge/Language-AutoIt-orange?logo=autoit&style=flat-square)](https://www.autoitscript.com/site/)
