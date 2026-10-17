@@ -19,7 +19,8 @@ It is particularly useful in development and testing environments, or wherever t
 개발 · 테스트 환경 또는 런처를 집중적으로 사용하는 환경에서 유용합니다.
 
 <br>
-<img width="482" height="604" alt="001" src="https://github.com/miiimeworks/MTM/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">  
+<img width="482" height="604" alt="001" src="https://github.com/miiimeworks/MTM/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">    
+<br>
 <img width="402" height="197" alt="003" src="https://github.com/miiimeworks/MTM/blob/main/Preview/003.png?raw=true" />
 <br>
 
@@ -127,7 +128,7 @@ MIIIMEToolsManager/
 |:------------------ |:------------------------------------------------------------------------------ |
 | **Major Vendors**  | **Clean** (Passed by AhnLab V3, Kaspersky, Microsoft, Avast, ESET, etc.)       |
 | **Detection Rate** | **8 / 72** (Mostly Heuristic/Generic/Trojan-type flags)                        |
-| **Integrity**      | The source code is transparently available for verification in this repository |
+| **Integrity**      | The source is private, and the distribution files can be verified using hashes and VirusTotal results. |
 
 > This Program was created with AutoIt. Some antivirus programs may incorrectly detect it as a virus.  
 > 본 프로그램은 AutoIt으로 제작되었습니다. 일부 백신이 바이러스로 오진 할 수 있습니다. 
